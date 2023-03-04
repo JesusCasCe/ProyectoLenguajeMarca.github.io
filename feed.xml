@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+    <title>Amigos del misterio</title>
+    <!-- Agregar la dirección de la página-->
+    <link></link>
+    <description>Amigos del misterio presenta su página 
+        sobre historias de sucesos y leyendas que trascurren
+        en España, pero no cabe descartar que también se escribirá
+        fuera de la misma.
+    </description>
+    <language>es</language>
+    <copyright>CC 4.0 -BY- JC</copyright>
+
+    <item>
+        <title>Artículo 2</title>
+        <link></link>
+        <description></description>
+        <author></author>
+        <pubDate>Mon, 27 Feb 2023</pubDate>
+        <enclosure  />
+        <!-- No hace falta crear etiqueta de cierre ya que al final
+        de la misma etiqueta tiene la barra del 7-->
+    </item>
+
+
+    <item>
+        <title>Artículo 1 - Cuarto Milenio en el Teatro de Almagro</title>
+        <link>https://www.cuatro.com/cuarto-milenio/20230219/
+        teatro-almagro-fenomenos-paranormales_18_08773838.html</link>
+        <description></description>
+        <author>Cuarto Milenio</author>
+        <pubDate>25 Feb 2023</pubDate>
+        <enclosure  />
+        <!-- No hace falta crear etiqueta de cierre ya que al final
+        de la misma etiqueta tiene la barra del 7-->
+    </item>
+
+
+</channel>
+
+</rss>

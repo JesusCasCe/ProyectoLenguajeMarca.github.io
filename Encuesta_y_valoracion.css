@@ -1,0 +1,75 @@
+
+body{
+    background-color:rgb(168, 168, 168);
+    padding: 0;
+    margin: 0;
+}
+
+#cabecero{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+video{
+    padding: 10px;
+    height: 350px;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+nav ul{
+    background-color: #757575;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10PX;
+    width: 150PX;
+}
+nav li :hover{
+    background-color: black;
+
+}
+
+fieldset{
+    background-color:rgb(168, 168, 168);
+    border: 1px hidden;
+    width:100px;
+    margin:auto;
+}
+#name, #apellido1, #apellido2, #email{
+    width:250px; border: 1px hidden;
+}
+
+.terminos :hover{
+    color: white;
+    background-color: rgb(48, 36, 221);
+    padding: 10px;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+}
+
+footer p{
+    text-align: center;
+    padding: 10px;
+}
